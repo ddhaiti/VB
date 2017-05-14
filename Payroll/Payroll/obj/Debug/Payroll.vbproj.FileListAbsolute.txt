@@ -1,0 +1,16 @@
+c:\users\durbz222\documents\visual studio 2015\Projects\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\bin\Debug\Payroll.xml
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.vbprojResolveAssemblyReference.cache
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.Resources.resources
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.vbproj.GenerateResource.Cache
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.xml
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\durbz222\Documents\Visual Studio 2015\Projects\Payroll\Payroll\obj\Debug\Payroll.summary.resources
+C:\Users\Durbz\Desktop\Projects\Projects\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Durbz\Desktop\Projects\Projects\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Durbz\Desktop\Projects\Projects\Payroll\Payroll\obj\Debug\Payroll.xml
+C:\Users\Durbz\Desktop\Projects\Projects\Payroll\Payroll\obj\Debug\Payroll.pdb

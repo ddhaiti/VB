@@ -1,0 +1,11 @@
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\bin\Debug\PollNumbers.exe.config
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\bin\Debug\PollNumbers.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\bin\Debug\PollNumbers.pdb
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\bin\Debug\PollNumbers.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.vbprojResolveAssemblyReference.cache
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.Form1.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.Resources.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.vbproj.GenerateResource.Cache
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\PollNumbers\PollNumbers\obj\Debug\PollNumbers.pdb

@@ -1,0 +1,11 @@
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\bin\Debug\betterPiano.exe.config
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\bin\Debug\betterPiano.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\bin\Debug\betterPiano.pdb
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\bin\Debug\betterPiano.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.vbprojResolveAssemblyReference.cache
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.Form1.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.Resources.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.vbproj.GenerateResource.Cache
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\betterPiano\betterPiano\obj\Debug\betterPiano.pdb

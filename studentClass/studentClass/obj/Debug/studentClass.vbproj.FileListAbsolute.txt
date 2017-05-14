@@ -1,0 +1,11 @@
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\bin\Debug\studentClass.exe.config
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\bin\Debug\studentClass.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\bin\Debug\studentClass.pdb
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\bin\Debug\studentClass.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.vbprojResolveAssemblyReference.cache
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.Form1.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.Resources.resources
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.vbproj.GenerateResource.Cache
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.exe
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.xml
+c:\users\durbz222\documents\visual studio 2015\Projects\studentClass\studentClass\obj\Debug\studentClass.pdb

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <guest>
+    <customerName>BEJKDBFJK</customerName>
+    <address>CJKDEBCJKL</address>
+    <creditCardNumber>DKWEB D</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>JDBCB</customerName>
+    <address>BODCLUSBCDL</address>
+    <creditCardNumber>CKDEB C</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>NDVFNL</customerName>
+    <address>DBWSJ</address>
+    <creditCardNumber>edbflj</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>bdelb</customerName>
+    <address>d bwsjl</address>
+    <creditCardNumber>sdlkjb j</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>Derbey</customerName>
+    <address>vhkvkh</address>
+    <creditCardNumber>kdkb</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>ramsay</customerName>
+    <address>bkhedvb</address>
+    <creditCardNumber>dbkejbkd</creditCardNumber>
+  </guest>
+  <guest>
+    <customerName>Derbey</customerName>
+    <address>fyufyu</address>
+    <creditCardNumber>gigu</creditCardNumber>
+  </guest>
+  <reservation>
+    <customerName>Atsushi</customerName>
+    <address>vkhv</address>
+    <numberOfNights>2</numberOfNights>
+    <phone_number>bjlbj</phone_number>
+    <creditCardNumber>bjkvbj</creditCardNumber>
+    <reservationNumber>0</reservationNumber>
+  </reservation>
+  <reservation>
+    <customerName>Ramsay</customerName>
+    <address>fuj</address>
+    <numberOfNights>3</numberOfNights>
+    <phone_number>jhvfhjkvk</phone_number>
+    <creditCardNumber>jkhvkjbv</creditCardNumber>
+    <reservationNumber>1</reservationNumber>
+  </reservation>
+  <reservation>
+    <customerName>Yay</customerName>
+    <address>jvkhvgjk</address>
+    <phone_number>vhkvmhj</phone_number>
+    <creditCardNumber>bj,bv ,nmb </creditCardNumber>
+    <reservationNumber>2</reservationNumber>
+  </reservation>
+</DataSet1>

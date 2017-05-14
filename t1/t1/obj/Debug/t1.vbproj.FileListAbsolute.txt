@@ -1,0 +1,11 @@
+c:\users\durbz222\documents\visual studio 2015\Projects\t1\t1\bin\Debug\t1.exe.config
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\bin\Debug\t1.exe.config
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\bin\Debug\t1.exe
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\bin\Debug\t1.pdb
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\bin\Debug\t1.xml
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.vbprojResolveAssemblyReference.cache
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.Resources.resources
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.vbproj.GenerateResource.Cache
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.exe
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.xml
+C:\Users\Durbz\Desktop\Projects\Projects\t1\t1\obj\Debug\t1.pdb

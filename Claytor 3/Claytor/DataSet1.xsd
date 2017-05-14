@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="guest" msprop:Generator_TableClassName="guestDataTable" msprop:Generator_TableVarName="tableguest" msprop:Generator_TablePropName="guest" msprop:Generator_RowDeletingName="guestRowDeleting" msprop:Generator_RowChangingName="guestRowChanging" msprop:Generator_RowEvHandlerName="guestRowChangeEventHandler" msprop:Generator_RowDeletedName="guestRowDeleted" msprop:Generator_UserTableName="guest" msprop:Generator_RowChangedName="guestRowChanged" msprop:Generator_RowEvArgName="guestRowChangeEvent" msprop:Generator_RowClassName="guestRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="customerName" msprop:Generator_ColumnVarNameInTable="columncustomerName" msprop:Generator_ColumnPropNameInRow="customerName" msprop:Generator_ColumnPropNameInTable="customerNameColumn" msprop:Generator_UserColumnName="customerName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="creditCardNumber" msprop:Generator_ColumnVarNameInTable="columncreditCardNumber" msprop:Generator_ColumnPropNameInRow="creditCardNumber" msprop:Generator_ColumnPropNameInTable="creditCardNumberColumn" msprop:Generator_UserColumnName="creditCardNumber" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="reservation" msprop:Generator_TableClassName="reservationDataTable" msprop:Generator_TableVarName="tablereservation" msprop:Generator_TablePropName="reservation" msprop:Generator_RowDeletingName="reservationRowDeleting" msprop:Generator_RowChangingName="reservationRowChanging" msprop:Generator_RowEvHandlerName="reservationRowChangeEventHandler" msprop:Generator_RowDeletedName="reservationRowDeleted" msprop:Generator_UserTableName="reservation" msprop:Generator_RowChangedName="reservationRowChanged" msprop:Generator_RowEvArgName="reservationRowChangeEvent" msprop:Generator_RowClassName="reservationRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="customerName" msprop:Generator_ColumnVarNameInTable="columncustomerName" msprop:Generator_ColumnPropNameInRow="customerName" msprop:Generator_ColumnPropNameInTable="customerNameColumn" msprop:Generator_UserColumnName="customerName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="numberOfNights" msprop:Generator_ColumnVarNameInTable="columnnumberOfNights" msprop:Generator_ColumnPropNameInRow="numberOfNights" msprop:Generator_ColumnPropNameInTable="numberOfNightsColumn" msprop:Generator_UserColumnName="numberOfNights" type="xs:int" minOccurs="0" />
+              <xs:element name="phone_number" msprop:Generator_ColumnVarNameInTable="columnphone_number" msprop:Generator_ColumnPropNameInRow="phone_number" msprop:Generator_ColumnPropNameInTable="phone_numberColumn" msprop:Generator_UserColumnName="phone_number" type="xs:string" minOccurs="0" />
+              <xs:element name="creditCardNumber" msprop:Generator_ColumnVarNameInTable="columncreditCardNumber" msprop:Generator_ColumnPropNameInRow="creditCardNumber" msprop:Generator_ColumnPropNameInTable="creditCardNumberColumn" msprop:Generator_UserColumnName="creditCardNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="reservationNumber" msdata:AutoIncrement="true" msprop:Generator_ColumnVarNameInTable="columnreservationNumber" msprop:Generator_ColumnPropNameInRow="reservationNumber" msprop:Generator_ColumnPropNameInTable="reservationNumberColumn" msprop:Generator_UserColumnName="reservationNumber" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint2">
+      <xs:selector xpath=".//mstns:reservation" />
+      <xs:field xpath="mstns:reservationNumber" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="guest_reservation" msdata:parent="guest" msdata:child="reservation" msdata:parentkey="customerName" msdata:childkey="customerName" msprop:Generator_UserChildTable="reservation" msprop:Generator_ChildPropName="GetreservationRows" msprop:Generator_UserRelationName="guest_reservation" msprop:Generator_ParentPropName="guestRow" msprop:Generator_RelationVarName="relationguest_reservation" msprop:Generator_UserParentTable="guest" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
